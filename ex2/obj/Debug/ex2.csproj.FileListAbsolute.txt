@@ -1,0 +1,6 @@
+I:\Val\Excercicio ENquanto 3\ex2\ex2\ex2\bin\Debug\ex2.exe.config
+I:\Val\Excercicio ENquanto 3\ex2\ex2\ex2\bin\Debug\ex2.exe
+I:\Val\Excercicio ENquanto 3\ex2\ex2\ex2\bin\Debug\ex2.pdb
+I:\Val\Excercicio ENquanto 3\ex2\ex2\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+I:\Val\Excercicio ENquanto 3\ex2\ex2\ex2\obj\Debug\ex2.exe
+I:\Val\Excercicio ENquanto 3\ex2\ex2\ex2\obj\Debug\ex2.pdb
